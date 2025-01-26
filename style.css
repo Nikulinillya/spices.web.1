@@ -1,0 +1,65 @@
+header h1{
+    text-align: center;
+    color: white;
+    background-image: url(https://flomaster.top/uploads/posts/2023-01/thumbs/1673592928_flomaster-club-p-spetsii-risunok-krasivo-80.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+
+.outlined-text{
+    font-size: 48px;
+    font-weight: bold;
+    -webkit-text-stroke: 2px black;
+    font-family: cursive;
+}
+
+h3{
+    font-size: 30px;
+    font-family: monospace;
+    background-color: rgba(255, 255, 255, 0.375);
+    transition: background-color 0.5s ease;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    padding-bottom: 30px;
+}
+
+h3:hover{
+    background-color: rgba(255, 255, 255, 0.705);
+    cursor: pointer;
+}
+
+p{
+    font-size: 35px;
+    font-family: monospace;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+    background-color: rgba(240, 248, 255, 0.288);
+    -webkit-text-stroke: 1.5px rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    font-size: 50px;
+    font-family: cursive;
+    -webkit-text-stroke: 2px rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+    border-radius: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 5px;
+    border: 2px solid black;
+    color: aliceblue;
+}
+
+html{
+    background-image: url(https://img.freepik.com/premium-photo/colored-spices-spoons-bowls-aromatic-spices-cooking-background-black-stone-view-from_187166-67831.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+}
